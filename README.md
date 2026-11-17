@@ -1,45 +1,27 @@
-## 𝐒𝐎𝐔𝐑𝐀𝐁𝐇 𝐑𝐎𝐘
-**Technical Project Manager — UAV & Aerospace Programs**  
-Bengaluru, Karnataka | sourabhroy3009@gmail.com
+## 𝐔𝐀𝐕 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 & 𝐃𝐞𝐥𝐢𝐯𝐞𝐫𝐲 𝐌𝐞𝐭𝐫𝐢𝐜𝐬
 
----
+### 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐀𝐜𝐭𝐢𝐯𝐞 𝐔𝐀𝐕 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐬 (𝐋𝐨𝐢𝐭𝐞𝐫𝐢𝐧𝐠 𝐌𝐮𝐧𝐢𝐭𝐢𝐨𝐧𝐬, 𝐅𝐏𝐕, 𝐈𝐒𝐑 & 𝐕𝐓𝐎𝐋)
+Managing end-to-end project execution across **5 concurrent drone programs**, aligning **~38 engineers** across mechanical design, avionics, production, and quality assurance.
 
-### 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
+- **Contract Breakdown & Scope Control:** Audited **5 client contracts** line by line to extract **94 distinct technical deliverables**, building standardized phase-gate plans that reduced upfront planning rework by **~33%**.
+- **Schedule & Milestone Performance:** Built master schedules and tracked weekly execution, achieving an **84.6% on-time delivery rate** (**11 of 13 major milestones** completed on planned baseline dates).
+- **Cross-Team Alignment & Blocker Closure:** Chaired weekly status reviews across **6 functional departments**, tracking open action items to closure and resolving technical dependencies before they stalled builds.
+- **Risk Management & Audit Discipline:** Maintained **5 live program risk trackers** with assigned owners and backup plans for every high-priority delay, while filing **100% of contract changes and test records the same day** for full audit readiness.
 
-I am a Project Manager with 5 years of hands-on experience running complex technical operations, with the last 2+ years focused on Unmanned Aerial Vehicles (loitering munitions, FPV, ISR, VTOL, and tethered drones). My day-to-day job is keeping mechanical design, avionics, production, and quality teams moving in the same direction. I take dense client contracts, break them into practical schedules, clear out shop-floor and engineering roadblocks, and make sure hardware ships on time without compliance surprises.
+### 𝐄𝐏-𝐕𝐈 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 & 𝐓𝐫𝐢𝐚𝐥𝐬
+Leading ongoing project planning, cross-team alignment, and trial readiness for the **EP-VI UAV program**.
 
----
+- **Trial Readiness & Engineering Integration:** Coordinating mechanical design, avionics integration, and quality sign-offs across **4 engineering functions** to prepare hardware for ground and flight validation trials.
+- **Schedule & Risk Tracking:** Running weekly progress audits against baseline dates and maintaining a live risk tracker to clear component and testing blockers early.
 
-### 𝐖𝐎𝐑𝐊 𝐄𝐗𝐏𝐄𝐑𝐈𝐄𝐍𝐂𝐄
+### 𝐄𝐏-𝐕 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 & 𝐓𝐫𝐢𝐚𝐥𝐬
+Guided the **EP-V drone project** through design freeze, assembly, field trials, and client handover.
 
-#### 𝐀𝐬𝐬𝐨𝐜𝐢𝐚𝐭𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐫 – 𝐈
-**Newspace Research & Technologies Pvt. Ltd., Bengaluru**  
-*September 2025 – Present*
+- **End-to-End Trial & Blocker Resolution:** Coordinated workflows across engineering, shop-floor assembly, and testing teams, helping clear **25+ cross-team blockers** across active drone builds to keep trial dates intact.
+- **Zero-Defect Client Reviews:** Supported **8 formal client reviews and live flight demonstrations** across active platforms, filing all test records the same day to pass with **zero compliance findings**.
 
-I currently own end-to-end execution across 5 concurrent UAV programs, leading day-to-day coordination and delivery governance for a multidisciplinary team of around 38 engineers across mechanical design, avionics, production, and quality assurance.
+### 𝐍𝟑𝐓 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 (𝐁𝐚𝐭𝐜𝐡 𝟏 & 𝐁𝐚𝐭𝐜𝐡 𝟐)
+Managed production scheduling, quality checks, and final dispatch for scaled drone manufacturing.
 
-- **Turning Contracts into Actionable Plans:** I audited 5 client contracts line by line, extracted 94 individual technical deliverables, and built clear phase-gate execution plans around them. Establishing this baseline early cut our upfront planning rework by roughly a third.
-- **Keeping Schedules Honest:** I own the master schedules in MS Project and map them against weekly engineering execution in JIRA. Every week, I run schedule variance reviews to catch slippage early—helping my teams hit 11 out of 13 critical milestones right on the planned date.
-- **Proactive Risk & Dependency Control:** I maintain a live risk register for every active program. Whenever a supply-chain delay, vendor bottleneck, or hardware integration issue surfaces, I assign an immediate owner and put a fallback plan in motion before it stalls the build.
-- **Practical Hybrid Governance:** While our external client commitments follow strict phase-gate baselines, I run internal engineering squads on short weekly sprints so they can adapt quickly and resolve technical snags without bureaucratic slowdown.
-- **Cross-Functional Alignment & Reporting:** I chair weekly status reviews across 6 functional teams, track open action items to closure, and keep leadership and clients updated with clear, metrics-driven progress reports.
-- **Change Control & Audit Discipline:** I oversee configuration discipline across active builds, ensuring every engineering change request, scope adjustment, and test record is logged and filed the same day to maintain complete audit readiness.
-
-<br>
-
-#### 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐂𝐨𝐨𝐫𝐝𝐢𝐧𝐚𝐭𝐨𝐫
-**Newspace Research & Technologies Pvt. Ltd., Bengaluru**  
-*September 2024 – August 2025*
-
-Supported end-to-end project execution, shop-floor coordination, and client readiness across key drone programs from design freeze through delivery.
-
-- **Platform Execution & Batch Delivery:** Coordinated workflows across design, production, and testing for the Nimbus Scope (tethered drone) and EP-V projects, while helping deliver 260 UAVs across N3T Batch 1 and Batch 2 right on schedule.
-- **Blocker Resolution & Client Reviews:** Cleared roughly 25 cross-team operational blockers and ran 8 formal client reviews and live demonstrations with zero compliance findings.
-
----
-
-### 𝐓𝐎𝐎𝐋𝐒 & 𝐖𝐎𝐑𝐊𝐈𝐍𝐆 𝐒𝐓𝐘𝐋𝐄
-
-- **Scheduling & Tracking:** MS Project, JIRA, Confluence, Asana, Trello
-- **Reporting & Data:** MS Excel, Google Workspace
-- **Core Focus:** Multi-program governance, phase-gate planning, weekly sprint tracking, live risk registers, cross-team alignment, and same-day audit documentation.
+- **100% On-Time Batch Delivery:** Synchronized component readiness, shop-floor assembly lines, and final quality inspections to deliver **260 operational UAVs** across Batch 1 and Batch 2 right on schedule.
+- **Production & Quality Coordination:** Aligned daily handoffs between production and quality assurance teams to prevent assembly bottlenecks and maintain steady output targets.
